@@ -31,8 +31,6 @@ int main() {
 			if (cursor != aditor.begin()) {
 				cursor--;
 				cursor = aditor.erase(cursor);
-				//list는 (vector와 달리) 해당원소가 삭제되면 iterator가 갈 곳을 잃음.
-				//erase함수의 리턴값은 삭제 원소 사음에 있는 원소 iterator.
 			}
 		}
 	}
