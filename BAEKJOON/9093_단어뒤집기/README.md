@@ -3,7 +3,8 @@
 해결 아이디어
 ---------------------
 ### solution1 (main1.cpp)
-- string.find 로 띄어쓰기 부분 반복문을 통해 찾기
+- string.find 로 띄어쓰기 부분 반복문을 통해 찾기  
+  
 주의사항
 ```c++
 int testcase;
