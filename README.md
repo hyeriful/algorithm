@@ -1,7 +1,7 @@
 # algorithm
 ## 백준
 ***sort***
-- [2751]()  
+- [2751](https://github.com/hyeriful/algorithm/tree/master/BAEKJOON/2751_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02)  
   
 ***none***
 - [11720](https://github.com/hyeerii/algorithm/tree/master/BAEKJOON/11720_%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9)
