@@ -8,7 +8,7 @@
 
 **_dynamic programming_**
 
-- [11726](https://github.com/hyeriful/algorithm/tree/master/BAEKJOON/11726_2xn+tiling)
+- [11726](https://github.com/hyeriful/algorithm/tree/master/BAEKJOON/11726_2xn%20tiling)
 
 **_none_**
 
