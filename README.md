@@ -20,4 +20,4 @@
 
 ### 프로그래머스
 
-- [Python] [멀쩡한 사각형]()
+- [Python] [멀쩡한 사각형](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)
