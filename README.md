@@ -20,4 +20,5 @@
 
 ### 프로그래머스
 
-- [Python] [멀쩡한 사각형](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)
+- [Python] [멀쩡한 사각형](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)  
+- [Python] [124 나라의 숫자](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)
