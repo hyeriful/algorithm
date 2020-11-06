@@ -20,6 +20,8 @@
 
 ### 프로그래머스
 
-- [Python] [멀쩡한 사각형](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)  
+- [Python] [멀쩡한 사각형](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)
 - [Python] [124 나라의 숫자](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)
 - [C++] [카카오프렌즈 컬러링북](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81)
+- [Python] [문자열 압축](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)
+- [Python] [괄호 변환](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98)
