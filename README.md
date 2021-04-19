@@ -25,6 +25,10 @@
 - [C++] [카카오프렌즈 컬러링북](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81)
 - [Python] [단어 변환](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98)
 
+**_자료구조_**
+
+- [C++, Python] [더 맵게](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%8D%94+%EB%A7%B5%EA%B2%8C)
+
 **_etc_**
 
 - [Python] [멀쩡한 사각형](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95)
