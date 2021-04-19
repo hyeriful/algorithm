@@ -27,7 +27,7 @@
 
 **_자료구조_**
 
-- [C++, Python] [더 맵게](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%8D%94+%EB%A7%B5%EA%B2%8C)
+- [C++, Python] [더 맵게](https://github.com/hyeriful/algorithm/tree/master/PROGRAMMERS/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
 
 **_etc_**
 
